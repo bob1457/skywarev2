@@ -27,7 +27,7 @@ function App() {
         </p>
       </div>
       <div>
-      <Button>Click me</Button>
+      <Button className=' bg-blue-700 text-white'>Click me</Button>
     </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
